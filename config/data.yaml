@@ -1,0 +1,24 @@
+hero:
+  name: anqila
+  word: huoyanshiwozuixihuandehuanjing
+  hp: 445.5
+
+heros_name:
+  - aiqila
+  - huangzhong
+  - xiaoqiao
+
+
+heros:
+  - name: huangzhong
+  - word: xihuole
+  - Hp: 440
+
+heros_name_list:
+  - - aiqila
+    - huangzhong
+    - xiaoqiao
+
+
+mobile_parames:
+  - [1,10,1,1]
