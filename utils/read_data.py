@@ -13,3 +13,18 @@ print(data['hero'])
 print(data['heros_name'])
 print(data['heros'])
 print(data['heros_name_list'])
+
+
+
+
+def fun(x,y):
+    return x**2+y
+
+y = fun(2,fun(1,3))
+
+print(y)
+
+
+x = 5
+x*=x-2
+print(x)
