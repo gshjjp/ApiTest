@@ -1,4 +1,4 @@
-#!/Users/gengshijin/PycharmProjects/pythonProject/ApiTest/venv/bin/python
+#!/Users/gengshijin/PycharmProjects/pythonProject/ApiTest/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
