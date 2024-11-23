@@ -65,6 +65,7 @@ with mysql.connector.connect(
                     print("--------error--------")
             else:
                 print(f"wuyou{rows['avatar']}")
+                print("---------------------")
 
 
 
